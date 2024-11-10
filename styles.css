@@ -1,0 +1,24 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f8f9fa;
+}
+
+.card {
+    margin-bottom: 30px;
+}
+
+.card-title {
+    font-weight: bold;
+}
+
+.card-text {
+    font-size: 14px;
+}
+
+.card-body a {
+    text-decoration: none;
+}
+
+h1 {
+    color: #495057;
+}
